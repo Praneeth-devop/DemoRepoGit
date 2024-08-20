@@ -1,2 +1,3 @@
 this is a new file. I have updated second line
 exammple for git revert 
+example of git reset 
